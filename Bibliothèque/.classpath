@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_171/lib/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud/Downloads/Hibernate jar/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
